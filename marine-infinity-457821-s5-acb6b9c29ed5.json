@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "marine-infinity-457821-s5",
+  "private_key_id": "acb6b9c29ed595e92b1f7c5264211fc08453cf5c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDkH+7kHu2sgsyC\n7vlcq8gQYXzhGqC+UjISls7dfRxZLXPkAd5/0w5+qGDSnXy34V9d+T1Cm1yU6Xs3\nxNz5L2+/jPdIe6Q1Fk3uA/U0hgXsPo4xnAKswE9fjcwyAJuyjpSGPtPFdPMhn9mp\nt7miPOYmt8B1KodsMq4GYlbLdohaMTCNQMtbz14oZZ0DVhXpEWke6+/j1ve6AH3r\n5R9Z/hFZMhKxHMDLMEva8OrTAg8u4T89wy1z6KoJaBSpfJUr7qGT0wWI14+C8882\nAwC+FxntXM+j0WkSkt9xjtltOvfnA8TZ3idRkSQE31RbFJXjBGnOR3v534OOMMB1\nDXcwDXTZAgMBAAECggEAD6oqsRL3nqA3s2j+ChFIsmlDVkDKF2+U/SZKa7am3u/K\nVLaVJQFk7ikZRvUmBoltD0qpXHzHIXmb6rMzuk+51HU1WM6WsseGj+jJKnNmjjeo\nc3sjSuIEwUq/IhLdHiiAxewkBhvXAzDTFT6mul+ErVVyW4lRVcpwHUOc8qk/yTOU\n0ctWNWVnvK+mZtR0dqrAY/I/lFY6Ucdb3YdiPDofXInPUKVkPW7usKab54irgAjY\nrs4lC4YHIoyp5GNvwN1GS33CocMlGeFpop//vAsLCZuOXJLGKhc1sza46CpqSqaO\nGoSQPKmnnPKPuiRAGX5UcELvQsS+6jhh+QF9ZxwjBQKBgQDyEXKpzBYYxhpWhQsG\nnsXwhjTx/BlShrW1brcdtSaq1TSRNH9iRcODM9w49lG6md6xZBUiL1Q0cMIAjpFp\n4Se94vb9scImxcDXcq8Hdt8SiSLYmYi3u9jiSqvGr32tc3rKPyN/ntoHxkZxdhMs\nqRpkBmzyfCGESz2rEsOUogE5xQKBgQDxQQwt1eLC994FdbnQUzMMs5XeXxkYLiXm\nFxWH0RtJ3U4p9NS5u7LGUMvvTgPhHvAq6trdQIIpXXExPe1k0Jz76LfYI+ReABwy\ny0UpumzUFhMHSbQt06BUwqFdAwlOixgwQfpWn4Ieq6ppUXWdZ67Hq6VDJ5afK1M1\nnbU4JeNEBQKBgCmza8doix31crAY909KptrKo/BT96DJ6B+7VPxfKqwfUpD5NECf\nuBCwLG37sRSuUTjJ/wIGmUD3c9RYuyA8U3ZY1SfbKZE4XAJBlXl5tvAgg8pAmNbe\nG3zQVEtEDCiHTk3tFpZzrSfNtnDxYFg/QXadzMLxM2zw8Uy5TMwcJI3pAoGBAK15\n3Z0T4HPbsg1xAsT3Ho0ykUCOV0gY3u2dicDYruulM7BduZ04h6usq4gPLCDzkzT5\nHZnc6ft+kocbBZnpnAhT5eaIoIyrPZuUqM4BnIHAwbwK1oHhW7e3IDr2lPmicSk6\nOB2TowgU3nvOtGkUBgzTswkf7WHU0IeMOKQAMnRVAoGBALuxcUoo5h4JSwFA3l0X\nEsePUFM6CIez8RgJnTuE8+HJzyAKya5T6urhZuZrhXArECdp/NLIKM0hdaarZm2p\nOj9KRFiTFHMFP4M2SxyXYjOBJe4MH8HQSQmB5wmmkfnz/UFWS+HTjkIzCaKiy/e3\n6ScfEItU3Ju92ZFhZ+b/LeHR\n-----END PRIVATE KEY-----\n",
+  "client_email": "gemini@marine-infinity-457821-s5.iam.gserviceaccount.com",
+  "client_id": "114537809649691974895",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gemini%40marine-infinity-457821-s5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
